@@ -16,4 +16,4 @@ class Solution(object):
             res.append([x, y])
             k -= 1
         return res
-        
+            
