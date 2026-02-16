@@ -1,7 +1,7 @@
 # interviewprep
 
-## Reources Used
-Grind 75: https://www.techinterviewhandbook.org/grind75/?order=all_rounded&difficulty=Easy&difficulty=Medium&weeks=4&hours=32
+## Reources 
+Tech Interview: https://neetcode.io/practice/practice/neetcode250?difficulty=Easy,Medium
 
 DataLemur: https://datalemur.com/questions?category=SQL
 
